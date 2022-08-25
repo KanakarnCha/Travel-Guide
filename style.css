@@ -1,0 +1,4 @@
+.containerBox{
+    display: flex;
+    flex-direction: row;
+}
